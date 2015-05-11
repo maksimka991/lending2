@@ -325,7 +325,7 @@ header {
 /*just_relax */
 
 .just_relax {
-    height: 600px;
+    height: 590px;
     background-color: #e9e9e9;
 }
 
@@ -407,30 +407,70 @@ header {
 /* latest_project */
 .latest_project{
 height: 830px;
-
+ padding-top: 5px;
 }
 
 .l-p-right{
 float: right;
  height: 100%;
-    overflow: hidden;
+ overflow: hidden;
+ padding-top: 60px;
 }
 .l-p-left{
+
 float: right;
-width: 500px;
+width: 448px;
 }
 
 .l-p-left-title{
+  padding-top: 75px;
  font-family: 'Montserrat-Bold', bold;
     font-size: 18px;
     color: #222222;
 }
 
 .l-p-left-description{
-  padding-top: 10px;
+  padding-top: 20px;
+  font-family: 'RobotoSlabRegular', regular;
+    font-size: 16px;
+    color: #777777;
+    padding-bottom: 18px;
+}
+
+.l-p-left-content{
+  padding-top: 28px;
+  
+}
+
+.l-p-left  img {
+  float: left; 
+  padding-right: 20px;
+}
+
+
+.l-p-left-plus-top{
+ 
+    padding-top: 15px;
+    margin-left:  20px;
+    font-family: 'Montserrat-Bold', bold;
+    font-size: 18px;
+    color: #222222;
+}
+
+
+.l-p-left-plus-bot{
+  
   font-family: 'RobotoSlabRegular', regular;
     font-size: 16px;
     color: #777777;
 }
 
+.padding{
+  padding-top: 32px;
+}
+.l-p-left-btn_more{
+font-family: 'Montserrat-Bold', bold;
+    font-size: 16px;
+    color: #222222;
+    }
 /* end latest_project */
