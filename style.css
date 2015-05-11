@@ -212,7 +212,6 @@ header {
 /*begin title-section*/
 
 .title-section {
-     
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -276,102 +275,86 @@ header {
 
 .professional-ervices {
     height: 430px;
-   
 }
 
-.p-s-title{
-   margin-top: 80px; 
+.p-s-title {
+    margin-top: 80px;
     text-align: center;
     font-family: 'Montserrat-Bold', bold;
     font-size: 40px;
-    color: #222222; 
-
+    color: #222222;
 }
 
-.title-sub{ 
- margin-top: -3px; 
+.title-sub {
+    margin-top: -3px;
 }
 
-.per{
-
-  padding-top: 80px; 
+.per {
+    padding-top: 80px;
     margin-left: auto;
     margin-right: auto;
-  width: 910px;
-
+    width: 910px;
 }
 
-.per-one{
-float: left;
- 
-text-align: center;
-
+.per-one {
+    float: left;
+    text-align: center;
 }
 
-.per-one-centr{
-padding-left:  48px;
-padding-right:  48px;
+.per-one-centr {
+    padding-left: 48px;
+    padding-right: 48px;
 }
 
-.per-title{
-padding-top: 30px; 
-
-  font-family: 'Montserrat-Bold', bold;
+.per-title {
+    padding-top: 30px;
+    font-family: 'Montserrat-Bold', bold;
     font-size: 18px;
     color: #222222;
 }
 
-.per-description{
-  width: 270px;
-  padding-top: 10px; 
-
-  
-  font-family: 'RobotoSlabRegular', regular;
+.per-description {
+    width: 270px;
+    padding-top: 10px;
+    font-family: 'RobotoSlabRegular', regular;
     font-size: 14px;
     color: #777777;
     line-height: 1.4;
 }
-
 /* end professional-ervices */
 /*just_relax */
-.just_relax{
- height:  600px;
- 
- background-color: #e9e9e9;
 
-   
+.just_relax {
+    height: 600px;
+    background-color: #e9e9e9;
 }
 
 .j-r-left-gear {
-  height: 100%;  
-  overflow: hidden; 
+    height: 100%;
+    overflow: hidden;
 }
 
-.j-r-left-gear img{
-  margin-top: 90px;
-float: right; 
+.j-r-left-gear img {
+    margin-top: 90px;
+    float: right;
 }
 
-
-.j-r-right{
-  float:right; 
-overflow: hidden; 
- height: 100%;
- position: relative;
-
+.j-r-right {
+    float: right;
+    overflow: hidden;
+    height: 100%;
+    position: relative;
 }
 
- 
- .jr-title-content{
+.jr-title-content {
     width: 550px;
     position: absolute;
     margin: auto;
     left: 100px;
-     
     top: 80px;
- }
+}
 
- .jr-title {
+.jr-title {
     text-align: left;
     font-family: 'Montserrat-Bold', bold;
     font-size: 40px;
@@ -386,25 +369,24 @@ overflow: hidden;
     color: #cccccc;
 }
 
-.jr-title-list{
-padding-top: 14px;
-
-font-family: 'RobotoSlabRegular', regular;
+.jr-title-list {
+    padding-top: 14px;
+    font-family: 'RobotoSlabRegular', regular;
     font-size: 16px;
     color: #cccccc;
 }
-.jr-title-list li{
-padding-top: 10px;
-  }
-.jr-title-list img{
-padding-right:  20px;
-vertical-align: middle;
-  
+
+.jr-title-list li {
+    padding-top: 10px;
+}
+
+.jr-title-list img {
+    padding-right: 20px;
+    vertical-align: middle;
 }
 
 .jr-title-button {
     float: left;
-     
     margin-top: 45px;
     background-color: #7cc576;
     height: 60px;
@@ -421,5 +403,34 @@ vertical-align: middle;
     background-color: #ffffff;
     color: #222222;
 }
-
 /* end just_relax */
+/* latest_project */
+.latest_project{
+height: 830px;
+
+}
+
+.l-p-right{
+float: right;
+ height: 100%;
+    overflow: hidden;
+}
+.l-p-left{
+float: right;
+width: 500px;
+}
+
+.l-p-left-title{
+ font-family: 'Montserrat-Bold', bold;
+    font-size: 18px;
+    color: #222222;
+}
+
+.l-p-left-description{
+  padding-top: 10px;
+  font-family: 'RobotoSlabRegular', regular;
+    font-size: 16px;
+    color: #777777;
+}
+
+/* end latest_project */

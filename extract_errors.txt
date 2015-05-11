@@ -1,4 +1,4 @@
-[Mon May 11 2015 18:08:03 GMT+0300 (FLE Daylight Time)] Layer "Tuts+": Expected end of input but "+" found.
-[Mon May 11 2015 18:08:03 GMT+0300 (FLE Daylight Time)] Layer "hello@treehouse.com": Unsupported extension: com
-[Mon May 11 2015 18:08:03 GMT+0300 (FLE Daylight Time)] Layer "Google+": Expected end of input but "+" found.
-[Mon May 11 2015 18:08:03 GMT+0300 (FLE Daylight Time)] Layer "Google+": Expected end of input but "+" found.
+[Mon May 11 2015 20:33:12 GMT+0300 (FLE Daylight Time)] Layer "Tuts+": Expected end of input but "+" found.
+[Mon May 11 2015 20:33:12 GMT+0300 (FLE Daylight Time)] Layer "hello@treehouse.com": Unsupported extension: com
+[Mon May 11 2015 20:33:12 GMT+0300 (FLE Daylight Time)] Layer "Google+": Expected end of input but "+" found.
+[Mon May 11 2015 20:33:12 GMT+0300 (FLE Daylight Time)] Layer "Google+": Expected end of input but "+" found.
