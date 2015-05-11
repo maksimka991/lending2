@@ -166,7 +166,13 @@ float: left;
 
 .title-section{
   height: 530px;
+
+
   overflow: hidden; 
+}
+
+.title-section img{
+  width: 100%;
 }
 
 /* end title-section*/
