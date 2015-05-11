@@ -411,7 +411,7 @@ color: #7cc576;
 /* latest_project */
 
 .latest_project {
-    height: 830px;
+    height: 710px;
     padding-top: 5px;
 }
 
@@ -485,5 +485,38 @@ color: #7cc576;
 /* culture_values */
 .culture_values{
   height: 560px;
+  background-color: #f9f9f9;
+  
 }
+.c-v-padding{  
+}
+
+.culture_values-icon{
+  margin-top: 80px; 
+ width: 730px;
+ height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.culture_values-icon img{
+  float: left;
+}
+
+.line{
+  float: left;
+  width: 160px;
+  height: 40px; 
+  border-bottom: 2px solid #777777;
+
+  margin-left: 33px;
+  margin-right: 33px;
+}
+
+.c-v-per-padding{
+  width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 /* end latest_project */
