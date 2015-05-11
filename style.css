@@ -361,6 +361,10 @@ header {
     color: #fff;
 }
 
+.jr-title span{
+color: #7cc576;
+  }
+
 .jr-title-sub {
     padding-top: 36px;
     text-align: left;
@@ -476,5 +480,10 @@ header {
     font-family: 'Montserrat-Bold', bold;
     font-size: 16px;
     color: #222222;
+}
+/* end latest_project */
+/* culture_values */
+.culture_values{
+  height: 560px;
 }
 /* end latest_project */
