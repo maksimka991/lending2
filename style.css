@@ -386,13 +386,29 @@ overflow: hidden;
     color: #cccccc;
 }
 
+.jr-title-list{
+padding-top: 14px;
+
+font-family: 'RobotoSlabRegular', regular;
+    font-size: 16px;
+    color: #cccccc;
+}
+.jr-title-list li{
+padding-top: 10px;
+  }
+.jr-title-list img{
+padding-right:  20px;
+vertical-align: middle;
+  
+}
+
 .jr-title-button {
     float: left;
      
-    margin-top: 50px;
+    margin-top: 45px;
     background-color: #7cc576;
     height: 60px;
-    width: 200px;
+    width: 160px;
     border-radius: 30px;
     font-family: 'Montserrat-Bold', bold;
     font-size: 16px;
