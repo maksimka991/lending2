@@ -603,3 +603,28 @@ margin-top: 20px;
     background-color: #ffffff;
     color: #7cc576;
 }
+/*  end  ready_to_talk*/
+/*logos-container*/
+.logos-container{
+  height: 170px;
+}
+
+.logos{
+margin-left: auto;
+margin-right: auto; 
+width: 810px;
+}
+
+.logos img{
+  vertical-align: middle;
+  padding-top: 58px;
+  padding-left: 30px;
+}
+/*  end  logos-container*/
+/* top_footer*/
+
+ 
+.top_footer {
+height: 360px;
+background-color: #222222;
+}
